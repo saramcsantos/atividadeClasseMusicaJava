@@ -116,19 +116,5 @@ Hoje em dia a maioria dos sistemas são desenvolvidos utilizando o paradigma de 
 
 *Não foi dado exemplo de programação orientada a objetos pela razão de haver o código da atividade sobre o assunto*
 
-## Entendendo o código
-| Palavra-Chave  | Conceito |
-| ------------- | ------------- |
-| Main.java | código em que é instanciado um objeto da classe Music |
-| Music.java | código em que está a classe Music |
-| void | indica um método sem retorno |
-| double | indica que o método retorna um dado do tipo double¹ |
-| new | instancia um objeto da classe Music² |
-
-¹*O mesmo vale para: int, String, boolean e float*
-
-²*instanciar é o mesmo que criar um objeto*
-
-
-## Referências usadas para a elaboração desta documentação
+## Para saber mais
 **Artigo sobre Orientação a Objetos:** [Artigo da Alura](https://www.alura.com.br/artigos/poo-programacao-orientada-a-objetos?srsltid=AfmBOoqZjVNt8nPtFAt0LFlfnhWQHJYHp9cwkibk2cTSP_QMhWmORV5I)
